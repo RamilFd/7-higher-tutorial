@@ -1,0 +1,45 @@
+.class1 {
+	color: green;
+}
+.class2 {
+	color: red;
+}
+.red{
+	border: 2px solid red;
+}
+.green{
+	border: 2px solid green;
+}
+[data-inp='green'] {
+	border: 3px solid green;
+	color: green;
+}
+[data-inp='yellow'] {
+	border: 3px solid yellow;
+}
+[data-inp='red'] {
+	border: 3px solid red;
+	color: red;
+}
+
+#elem {
+	width: 300px;
+	height: 150px;
+	margin: 50px auto;
+	padding: 25px;
+	background: #CFF5BF;
+	border: 25px solid #F0D7A1;
+	overflow: auto;
+	text-align: justify;
+}
+
+td {
+	border: 1px solid black;
+	width: 100px;
+	height: 50px;
+	text-align: center;
+}
+
+.tdRed {
+	background: red;
+}
